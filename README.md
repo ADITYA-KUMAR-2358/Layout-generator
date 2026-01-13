@@ -62,6 +62,8 @@ streamlit run app.py
 
 The application will open in your browser at http://localhost:8501
 
+Live link ---- https://layout-generator-rlvd.onrender.com/
+
 ## Usage
 1. Click Generate Layouts button
 2. Wait for the search to complete (progress bar shows status)
@@ -139,4 +141,4 @@ Each layout displays:
 -Code plus instructions provided 
 
 ## Author
-Aditya Kumar
+ADITYA-KUMAR-2358
