@@ -254,3 +254,8 @@ else:
     
     Filter options to find exactly what you want
     """)
+
+    st.markdown("### Developed By:")
+    st.markdown("Aditya Kumar - Intern Assignment Solution")
+    st.markdown("Feel free to reach out for any questions or clarifications!")
+    st.markdown("GitHub:(https://github.com/ADITYA-KUMAR-2358)")
